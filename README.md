@@ -10,6 +10,9 @@ This repository contains the 3D CAD model of a PCB Prototyping and Drilling Mach
 - Lightweight and robust design for easy handling.
 - Configurable for different drill bit sizes.
 
+## Model 
+![Model](/image/featured_preview_6.jpg)
+
 ## File Contents
 - `PCB_Drill_Machine.FCStd` - Main FreeCAD file containing the 3D model.
 - `Assembly_Instructions.pdf` - Detailed assembly instructions for the physical build.
